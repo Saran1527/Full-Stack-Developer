@@ -1,0 +1,65 @@
+[
+  {
+    "Make": "Tesla",
+    "Model_Year": 2023,
+    "City": "Bangalore",
+    "State": "Karnataka",
+    "Latitude": 12.9716,
+    "Longitude": 77.5946,
+    "Battery_Capacity": 50
+  },
+  {
+    "Make": "Tata",
+    "Model_Year": 2022,
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "Latitude": 19.0760,
+    "Longitude": 72.8777,
+    "Battery_Capacity": 40
+  },
+  {
+    "Make": "Mahindra",
+    "Model_Year": 2023,
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "Latitude": 13.0827,
+    "Longitude": 80.2707,
+    "Battery_Capacity": 30
+  },
+  {
+    "Make": "MG",
+    "Model_Year": 2021,
+    "City": "Delhi",
+    "State": "Delhi",
+    "Latitude": 28.7041,
+    "Longitude": 77.1025,
+    "Battery_Capacity": 45
+  },
+  {
+    "Make": "Hyundai",
+    "Model_Year": 2020,
+    "City": "Kolkata",
+    "State": "West Bengal",
+    "Latitude": 22.5726,
+    "Longitude": 88.3639,
+    "Battery_Capacity": 35
+  },
+  {
+    "Make": "Tesla",
+    "Model_Year": 2024,
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Latitude": 18.5204,
+    "Longitude": 73.8567,
+    "Battery_Capacity": 60
+  },
+  {
+    "Make": "Tata",
+    "Model_Year": 2023,
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "Latitude": 17.3850,
+    "Longitude": 78.4867,
+    "Battery_Capacity": 25
+  }
+]
